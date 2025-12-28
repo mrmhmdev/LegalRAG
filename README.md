@@ -84,5 +84,3 @@ Then POST to `http://localhost:8000/ask`:
 ✓ Prompt engineering for grounding
 ✓ Integration across components
 ✓ Multiple interfaces (CLI, API, UI)
-
-Not production-ready (no caching, no error handling edge cases), but shows core RAG mechanics.
